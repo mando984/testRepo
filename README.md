@@ -12,4 +12,7 @@ Github username : **mando984**
 edX username : **mando984**
 
 Location : **Sombor , Republic of Serbia**
+
 Video recording date : *12th March 2024*
+
+email : **mando984@gmail.com**
