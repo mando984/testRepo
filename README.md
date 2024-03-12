@@ -1,6 +1,6 @@
 <p align="center" dir="auto">
   <a>
-    <img src="resources/MultiPy.png" alt="MultiPy logo" width="200" height="200"  style="max-width: 100%;">
+    <img src="MultiPy.png" alt="MultiPy logo" width="200" height="200"  style="max-width: 100%;">
   </a>
 
 Project title : **MultiPy**
